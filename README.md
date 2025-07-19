@@ -49,6 +49,6 @@ The goal of this project is to demonstrate the use of:
 <img width="1916" height="879" alt="image" src="https://github.com/user-attachments/assets/28b52908-7866-4acb-b5c7-d4bc97f9be4c" />
 <img width="1909" height="871" alt="image" src="https://github.com/user-attachments/assets/2a69760d-04d3-48eb-bdf3-b8e62f5204d1" />
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/1c372c8c-6abc-4750-b10d-d94313209efd" />
-<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/3dad4dd5-dd71-4642-b536-547239cb3c5a" />
+
 
 
