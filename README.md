@@ -34,4 +34,26 @@ The core goal of this project was to move away from hard references (`public Gam
 * **Event-Driven Scares:** Horror events (lights flickering, sounds playing, jump scares) are triggered via custom event broadcasters.
 * **Progression System:** A "3-Key" collection loop that unlocks the escape route.
 * **Modular Interaction:** Scripts are designed to be reusable across different triggers without tight coupling.
-* **Scene
+* **Scene Management:** Clean transitions between the Main Menu, Gameplay, and Win states.
+
+---
+
+## 💻 Tech Stack & Concepts
+
+| Category | Technology Used |
+| :--- | :--- |
+| **Engine** | Unity 2021.3.21f1 LTS |
+| **Pattern** | **Observer Pattern** |
+| **C# Concepts** | `Action`, `Func`, `delegate`, `event` keyword |
+| **UI** | Unity UI System (Canvas) |
+
+---
+
+## 🎯 Learning Objectives
+
+This project was built to master the following technical skills:
+* ✅ **Decoupling Code:** Implementing systems that communicate without direct references.
+* ✅ **C# Deep Dive:** Practical application of Delegates vs. Actions vs. Events.
+* ✅ **Scalability:** Creating an architecture where adding new horror events doesn't require rewriting existing code.
+
+---
